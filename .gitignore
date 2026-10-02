@@ -1,0 +1,15 @@
+# Captured output (may contain real IPs from your network — never commit)
+captures/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
